@@ -14,3 +14,4 @@
     + Работал с макетом в Figma;
     + Убрал фикс. размеры.
 
+### Ссылка на проект: https://leonid0134.github.io/russian-travel/index.html
