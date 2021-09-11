@@ -1,0 +1,26 @@
+.photo {
+    padding: 0 48px 92px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+    gap: 16px;
+}
+
+@media (max-width: 1060px) {
+    .photo {
+        gap: 14px;
+    }
+}
+
+@media (max-width: 900px) {
+    .photo {
+        padding: 0 24px 88px;
+        gap: 16px;
+    }
+}
+
+@media (max-width: 525px) {
+    .photo {
+        padding: 0 16px 64px;
+        gap: 12px;
+    }
+}

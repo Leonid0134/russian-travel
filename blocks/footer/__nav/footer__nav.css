@@ -1,0 +1,11 @@
+.footer__nav {
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 740px) {
+    .footer__nav {
+        flex-direction: column;
+        margin-bottom: 48px;
+    }
+}

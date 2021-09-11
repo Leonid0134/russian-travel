@@ -1,0 +1,24 @@
+.intro {
+    font-family: 'Inter', 'Arial', sans-serif;
+    color: #FFFFFF;
+    font-style: normal;
+    padding: 92px calc((100% - 984px)/2);    
+}
+
+@media (max-width: 1060px) {
+    .intro {
+        padding: 92px calc((100% - 928px)/2);
+    }
+}
+
+@media (max-width: 976px) {
+    .intro {
+        padding: 88px 24px;
+    }
+}
+
+@media (max-width: 525px) {
+    .intro {
+        padding: 64px 16px;
+    }
+}
