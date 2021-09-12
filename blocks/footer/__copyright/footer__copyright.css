@@ -6,7 +6,7 @@
 }
 
 @media (max-width: 720px) {
-    .footer__link {
+    .footer__copyright {
         line-height: 14px;
     }
 }
